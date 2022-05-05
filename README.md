@@ -18,12 +18,12 @@ The Odin Project is a open source project that offer a great curriculum and mate
 <br>
 Lessons:
 <ul>
-<li>How this Course Will Work.</li>
-<li>Introduction to Web Development.</li>
-<li>Motivation and Mindset.</li>
-<li>Asking For Help.</li>
-<li>Join the Odin Community.</li>
-<li>How Does the Web Work?.</li>
+<li>How this Course Will Work</li>
+<li>Introduction to Web Development</li>
+<li>Motivation and Mindset</li>
+<li>Asking For Help</li>
+<li>Join the Odin Community</li>
+<li>How Does the Web Work?</li>
 </ul>
 </details>
 </p>
@@ -33,11 +33,11 @@ Lessons:
 <br>
 Lessons:
 <ul>
-<li>Installation Overview.</li>
-<li>Prerequisites.</li>
-<li>Text Editors.</li>
-<li>Command Line Basics.</li>
-<li>Setting Up Git.</li>
+<li>Installation Overview</li>
+<li>Prerequisites</li>
+<li>Text Editors</li>
+<li>Command Line Basics</li>
+<li>Setting Up Git</li>
 </ul>
 </details>
 </p>
@@ -49,8 +49,8 @@ Lessons:
 <br>
 Lessons:
 <ul>
-<li>Introduction to Git.</li>
-<li>Git Basics.</li>
+<li>Introduction to Git</li>
+<li>Git Basics</li>
 </ul>
 </details>
 </p>
@@ -60,22 +60,36 @@ Lessons:
 
 <p>
 <details>
-<summary><strong>HTML Foundations (On going)</strong></summary>
+<summary><strong>HTML Foundations (Completed)</strong></summary>
 <br>
 Lessons:
 <ul>
 <li>Introduction to HTML and CSS.</li>
-<li>Elements and Tags.</li>
-<li>HTML Boilerplate.</li>
-<li>Working with Text.</li>
-<li>Lists.</li>
-<li>Links and Images.</li>
-<li>Commit Messages.</li>
-<li><strong>Project: Recipes.</strong></li>
+<li>Elements and Tags</li>
+<li>HTML Boilerplate</li>
+<li>Working with Text</li>
+<li>Lists</li>
+<li>Links and Images</li>
+<li>Commit Messages</li>
+<li><strong>Project: Recipes</strong></li>
 </ul>
 </details>
 </p>
 
+
+<p>
+<details>
+<summary><strong>CSS Foundations (On Going)</strong></summary>
+<br>
+Lessons:
+<ul>
+<li>CSS Foundations</li>
+<li>Inspecting HTML and CSS</li>
+<li>The Box Model</li>
+<li>Block and Inline</li>
+</ul>
+</details>
+</p>
 
 
 
